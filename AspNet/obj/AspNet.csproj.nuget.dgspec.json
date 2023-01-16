@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet\\AspNet.csproj": {}
+    "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet\\AspNet.csproj": {
+    "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet\\AspNet.csproj",
+        "projectUniqueName": "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet.csproj",
         "projectName": "AspNet",
-        "projectPath": "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet\\AspNet.csproj",
+        "projectPath": "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet.csproj",
         "packagesPath": "C:\\Users\\guach\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\AspNet\\obj\\",
+        "outputPath": "C:\\Users\\guach\\OneDrive\\Escritorio\\Etc\\AspNetTesting\\AspNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guach\\AppData\\Roaming\\NuGet\\NuGet.Config",
